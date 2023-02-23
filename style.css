@@ -1,0 +1,15 @@
+.button-container {
+    padding-top: 1rem;
+}
+
+select {
+    min-width: 10rem;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+  }
